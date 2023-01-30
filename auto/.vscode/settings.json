@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "typeinfo": "cpp",
+        "__availability": "cpp",
+        "__config": "cpp"
+    }
+}
